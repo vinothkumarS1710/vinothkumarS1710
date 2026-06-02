@@ -86,16 +86,14 @@
 
 ---
 
-## 📫 Connect With Me
+## 📫 Social Medias
 
-* GitHub: https://github.com/YOUR_GITHUB_USERNAME
-* LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
-* Email: [your-email@example.com](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vinoth-fullstack) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vinothkumarbscit46@gmail.com) 
 
 ---
 
 ### 💡 Quote
 
-> "Consistency beats intensity. Small improvements every day lead to remarkable results."
+![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ⭐ If you like my projects, consider giving them a star!
