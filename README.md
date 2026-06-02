@@ -8,10 +8,19 @@
 
 ---
 
-# 💫 About Me:
-🚀 Aspiring Software Engineer passionate about building impactful digital products and scalable solutions.
-💡 Transforming ideas into real-world applications using modern web technologies and AI.
-⚙️ Proficient in MERN Stack development with hands-on experience in full-stack architecture.<br><br>🐍 Leveraging Python for backend systems, automation, and intelligent applications.<br><br>🤖 Exploring the intersection of Artificial Intelligence, Generative AI, and Software Engineering.<br><br>🌍 Driven by curiosity, innovation, and a commitment to continuous improvement.<br><br>📈 Building projects that solve real problems while strengthening engineering excellence.<br><br>🛠️ Experienced in API integration, authentication systems, payment gateways, and cloud deployment.<br><br>📚 Constantly learning new frameworks, languages, and technologies to stay ahead of industry trends.<br><br>🎯 Goal: To contribute to innovative teams and create technology that makes a meaningful impact.<br><br>✨ Turning code into products, challenges into opportunities, and learning into growth.
+## 💫 About Me
+
+- 🚀 Aspiring Software Engineer passionate about building impactful digital products and scalable solutions.
+- 💡 Transforming ideas into real-world applications using modern web technologies and AI.
+- ⚙️ Proficient in MERN Stack development with hands-on experience in full-stack architecture.
+- 🐍 Leveraging Python for backend systems, automation, and intelligent applications.
+- 🤖 Exploring Artificial Intelligence, Generative AI, and modern Software Engineering practices.
+- 🌍 Driven by curiosity, innovation, and continuous improvement.
+- 📈 Building projects that solve real-world problems while strengthening engineering excellence.
+- 🛠️ Experienced in API integrations, authentication systems, payment gateways, and cloud deployment.
+- 📚 Continuously learning new frameworks, languages, and technologies.
+- 🎯 Seeking opportunities to contribute, learn, and grow as a software engineer.
+- ✨ Turning ideas into products, challenges into opportunities, and learning into growth.
 ---
 
 
