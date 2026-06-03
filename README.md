@@ -62,6 +62,23 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
 
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 BuddyAI
+
+AI-powered SaaS application with image generation, AI chat, credit system, and Razorpay integration.
+
+**Tech Stack:** React, Node.js, Express.js, MongoDB, Gemini API, Groq, Razorpay
+
+### 🎬 Cinetym
+
+Modern movie discovery platform featuring trending movies, ratings, and responsive UI.
+
+**Tech Stack:** React, Appwrite, TMDB API, Tailwind CSS
+
 ---
 
 ## 🔥 Contribution Streak
