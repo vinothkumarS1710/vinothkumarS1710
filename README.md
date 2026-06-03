@@ -1,6 +1,6 @@
 # Hi 👋, I'm Vinoth Kumar S
 
-### Software Developer | MERN Stack Developer | AI Enthusiast
+### MERN Stack Developer | Python Developer | AI Enthusiast
 
 💡 Passionate about building scalable web applications, AI-powered products, and solving real-world problems through technology.
 
