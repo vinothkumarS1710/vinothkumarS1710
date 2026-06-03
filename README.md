@@ -1,18 +1,25 @@
 # Hi 👋, I'm Vinoth Kumar S
 
-### Crafting Scalable Applications | Exploring AI | Transforming Ideas into Intelligent Digital Products
+### Software Developer | MERN Stack Developer | AI Enthusiast
+
+💡 Passionate about building scalable web applications, AI-powered products, and solving real-world problems through technology.
+
+🚀 Currently focused on Full Stack Development, System Design, and AI Integration.
+
 ---
 ## 👨‍💻 About Me:
 
-🚀 Passionate about building scalable web applications and AI-powered solutions
-
-💻 Experienced with MERN Stack, JavaScript, Python, APIs, databases, and modern development practices
+🚀 💻 Skilled in building full-stack applications using the MERN Stack
 
 🤖 Built projects integrating Generative AI, payment systems, authentication, and real-world business workflows
 
 🌱 Continuously learning new technologies and adapting to different stacks to solve complex problems
 
 🎯 Aspiring Software Engineer focused on creating impactful products and delivering great user experiences
+
+🏆 Strong believer in learning by building real-world projects
+
+📫 Reach me at: **[vinothkumarbscit46@gmail.com](mailto:vinothkumarbscit46@gmail.com)**
 
 ---
 
@@ -81,6 +88,17 @@
 </p>
 
 ---
+
+## 🏆 Achievements
+
+* 🚀 Built and deployed AI-powered SaaS applications
+* 💳 Integrated Razorpay Payment Gateway
+* 🤖 Worked with Gemini API and Groq AI Models
+* 🌐 Developed Full Stack MERN Applications
+* 📚 Continuously learning and improving problem-solving skills
+
+---
+
 ## 💡 Quote
 
 <p align="center">
