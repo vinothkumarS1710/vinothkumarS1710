@@ -57,7 +57,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 Contribution Streak
 
 <p align="center">
   <img height="180" src="https://streak-stats.demolab.com?user=vinothkumarS1710&theme=shadow-blue&hide_border=true&include_all_commits=true&count_private=true" />
@@ -66,7 +66,7 @@
 </p>
 
 ---
-## 📊 GitHub Summary Card
+## 📊 Contribution Insights
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinothkumarS1710&theme=react" width="87%" />
@@ -74,7 +74,7 @@
 
 ---
 
-## 📈 Contribution Graph
+## 📈 GitHub Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinothkumarS1710&theme=react&hide_border=true" width="87%" />
