@@ -77,7 +77,7 @@ AI-powered SaaS application with image generation, AI chat, credit system, and R
 
 Modern movie discovery platform featuring trending movies, ratings, and responsive UI.
 
-**Tech Stack:** React, Appwrite, TMDB API, Tailwind CSS
+**Tech Stack:** React, TMDB API, Tailwind CSS
 
 ---
 
