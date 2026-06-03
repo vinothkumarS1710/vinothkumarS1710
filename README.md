@@ -9,7 +9,7 @@
 ---
 ## 👨‍💻 About Me:
 
-🚀 💻 Skilled in building full-stack applications using the MERN Stack
+💻 Skilled in building full-stack applications using the MERN Stack
 
 🤖 Built projects integrating Generative AI, payment systems, authentication, and real-world business workflows
 
