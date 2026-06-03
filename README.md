@@ -1,6 +1,8 @@
 # Hi 👋, I'm Vinoth Kumar S
 
 ### Crafting Scalable Applications | Exploring AI | Transforming Ideas into Intelligent Digital Products
+---
+## 👨‍💻 About Me:
 
 🚀 Passionate about building scalable web applications and AI-powered solutions
 
@@ -33,8 +35,6 @@
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
 ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=flat&logo=jinja&logoColor=black)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
@@ -59,31 +59,35 @@
 
 ## 📊 GitHub Stats
 
-<p>
-<img src="https://github-readme-stats.shion.dev/api?username=vinothkumarS1710&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=vinothkumarS1710&theme=tokyonight&hide_border=true&layout=compact"/>
+<p align="center">
+  <img height="180" src="https://streak-stats.demolab.com?user=vinothkumarS1710&theme=shadow-blue&hide_border=true&include_all_commits=true&count_private=true" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=vinothkumarS1710&theme=shadow_blue&hide_border=true&layout=compact" />
+</p>
+
+---
+## 📊 GitHub Summary Card
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinothkumarS1710&theme=react" width="87%" />
 </p>
 
 ---
 
 ## 📈 Contribution Graph
 
-<p>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vinothkumarS1710&theme=tokyo-night&hide_border=true"/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinothkumarS1710&theme=react&hide_border=true" width="87%" />
+</p>
+
+---
+## 💡 Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react" width="60%" />
 </p>
 
 ---
 
-## 📊 GitHub Summary Card
-
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinothkumarS1710&theme=tokyonight"/>
-</p>
-
----
-
-### 💡 Quote
-
-![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ⭐ If you like my projects, consider giving them a star!
