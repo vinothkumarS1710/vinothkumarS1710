@@ -1,20 +1,16 @@
 # Hi 👋, I'm Vinoth Kumar S
 
-### Full Stack MERN Developer | AI Enthusiast | Problem Solver
+### Crafting Scalable Applications | Exploring AI | Transforming Ideas into Intelligent Digital Products
 
-💻 Passionate about building scalable web applications, AI-powered solutions, and modern user experiences.
+🚀 Passionate about building scalable web applications and AI-powered solutions
 
-🚀 Currently focused on Full Stack Development using the MERN Stack and integrating AI technologies into real-world applications.
+💻 Experienced with MERN Stack, JavaScript, Python, APIs, databases, and modern development practices
 
----
+🤖 Built projects integrating Generative AI, payment systems, authentication, and real-world business workflows
 
-## 🚀 About Me
+🌱 Continuously learning new technologies and adapting to different stacks to solve complex problems
 
-* 🌱 Learning advanced backend development and system design
-* 💡 Interested in AI Applications, SaaS Products, and Cloud Technologies
-* 🔭 Building real-world full-stack projects
-* 🎯 Goal: Become a Software Development Engineer (SDE)
-* ⚡ Fun Fact: I enjoy solving coding challenges and turning ideas into products
+🎯 Aspiring Software Engineer focused on creating impactful products and delivering great user experiences
 
 ---
 
@@ -83,12 +79,6 @@
 <p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinothkumarS1710&theme=tokyonight"/>
 </p>
-
----
-
-## 📫 Social Medias
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vinoth-fullstack) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vinothkumarbscit46@gmail.com) 
 
 ---
 
