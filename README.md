@@ -65,7 +65,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## 📂 Featured Projects
 
 ### 🤖 BuddyAI
 
