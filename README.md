@@ -84,8 +84,8 @@ Modern movie discovery platform featuring trending movies, ratings, and responsi
 ## 🚀 Contribution Streak
 
 <p align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=vinothkumarS1710&theme=shadow-blue&hide_border=true&include_all_commits=true&count_private=true" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="180" src="https://streak-stats.vercel.app?user=vinothkumarS1710&hide_border=true&background=FFFFFF&stroke=FFFFFF&ring=0969DA&fire=0969DA&currStreakLabel=0969DA&sideLabels=0969DA&card_width=520" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=vinothkumarS1710&theme=shadow_blue&hide_border=true&layout=compact" />
 </p>
 
